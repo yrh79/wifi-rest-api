@@ -1,0 +1,9 @@
+Flask>=0.12.2
+Flask-RESTful>=0.3.6
+redis>=2.10.6
+SQLAlchemy>=1.2.2
+captcha>=0.2.4
+PyMySQL>=0.8.0
+Flask-Cors>=3.0.3
+gunicorn>=19.7.1
+
